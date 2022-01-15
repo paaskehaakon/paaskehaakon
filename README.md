@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @paaskehaakon
-Teach a man to test and he can test once.
-Learn a man to car and he can test forever. 
+- Teach a man to test and he can test once.
+- Learn a man to car and he can test forever. 
+
+
 - Jostein B. 
 
 <!---
