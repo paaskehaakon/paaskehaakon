@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @paaskehaakon
-- 👀 I’m interested in homework  
-- 🌱 I’m currently learning to write assignments
-- 💞️ I’m looking to collaborate on the playground
-- 📫 How to reach me by vipps
+Teach a man to test and he can test once.
+Learn a man to car and he can test forever. 
+- Jostein B. 
 
 <!---
 paaskehaakon/paaskehaakon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
